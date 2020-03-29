@@ -18,7 +18,7 @@
 paintnet_4.2.10.exe /auto DESKTOPSHORTCUT=1 TARGETDIR="C:\Program Files\Graphics\Paint"
 ```
 | Параметр       | Цель                |
-| ------------- |:------------------|
+| :------------- |:------------------|
 | /auto | полностью автоматическая установка (в том числе и согласие с лицензией) |
 | DESKTOPSHORTCUT=1 | на рабочий стол вывести ярлык для запуска приложения |
 | TARGETDIR="C:\Program Files\Graphics\Paint" | каталог для установки — "C:\Program Files\Graphics\Paint" |
