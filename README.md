@@ -41,7 +41,7 @@ LibreOffice_6.4.2_Win_x64_helppack_ru.msi /passive /forcerestart
 ```
 | Параметр       | Цель                |
 | :------------- |:------------------|
-| /passive | установка с сокращенным интерфейсом |
+| /passive | автоматический режим - только указатель хода выполнения |
 | /norestart | без перезагрузки после установки LibreOffice |
 | /le "D:\Study\OS\libreoffice-install-log.txt" | вести журнал установки с отображением все сообщений об ошибках в файл libreoffice-install-log.txt |
 | /forcerestart | перезагрузка после установки языкового расширения |
